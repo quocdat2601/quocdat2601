@@ -6,10 +6,9 @@ Hi! 👋 I’m Nguyen Le Quoc Dat, a passionate Fullstack Developer and Software
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/datnlq2601) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:quocdat2601@gmail.com) 
 
 <!-- Snake Game Repo View -->
-
-[<div align="center">
-  <img src="[https://raw.githubusercontent.com/quocdat2601/quocdat2601/main/github-user-contribution.svg](https://raw.githubusercontent.com/quocdat2601/quocdat2601/6c626a2f41bf789946c789ba046600823218730d/github-contribution-grid-snake.svg)" alt="Snake animation" />
-</div>]
+<div align="center">
+  <img src="https://raw.githubusercontent.com/quocdat2601/quocdat2601/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 
 # 💻 Tech Stack:

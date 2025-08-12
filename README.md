@@ -1,6 +1,6 @@
 
 ## 💫 About Me
-🚀 Passionate **Fullstack Developer** | 🎓 Software Engineering Student @ FPT University  
+🚀 Just a normal chill Vietnamese **Fullstack Developer** | 🎓 Software Engineering Student @ FPT University  
 
 Hi! 👋 I’m **Nguyen Le Quoc Dat**. I love building **scalable, user-friendly** web applications and exploring cutting-edge technologies.  
 💡 Skilled in **HTML, CSS, JavaScript, React, TypeScript, Node.js, .NET, C#, Java, SQL**.  
@@ -70,21 +70,8 @@ Hi! 👋 I’m **Nguyen Le Quoc Dat**. I love building **scalable, user-friendly
 
 ---
 
-## 📌 Featured Projects
-<p align="center">
-  <a href="https://github.com/quocdat2601/CinemaWebsiteFPT777">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=quocdat2601&repo=CinemaWebsiteFPT777&theme=dark" />
-  </a>
-  <a href="https://github.com/quocdat2601/What-if">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=quocdat2601&repo=What-if&theme=dark" />
-</a>
-</p>
-
----
-
 ## 📫 Connect With Me
 <p align="center">
   <a href="mailto:quocdat2601@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/quocdat2601/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://www.facebook.com/datnlq2601"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 </p>

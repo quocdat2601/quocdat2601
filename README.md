@@ -5,12 +5,6 @@
 Hi! 👋 I’m **Nguyen Le Quoc Dat**. I love building **scalable, user-friendly** web applications and exploring cutting-edge technologies.  
 💡 Skilled in **HTML, CSS, JavaScript, React, TypeScript, Node.js, .NET, C#, Java, SQL**.  
 🤝 Open-minded, curious, and collaborative — I thrive in dynamic environments where innovation happens.  
-
-📌 **Current Focus:**  
-- 🔭 Building full-stack web applications  
-- 🌱 Learning **DevOps** & **Cloud Deployment**  
-- 🎯 Preparing for advanced certifications  
-
 ---
 
 ## 🛠 Tech Stack

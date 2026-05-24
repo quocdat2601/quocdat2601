@@ -1,6 +1,6 @@
 
 ## 💫 About Me
-🚀 Just a normal chill Vietnamese **Fullstack Developer** | 🎓 Software Engineering Student @ FPT University  
+🚀 Just a normal chill Vietnamese **Developer** | 🎓 Software Engineering Student @ FPT University  
 
 Hi! 👋 I’m **Nguyen Le Quoc Dat**. I love building **scalable, user-friendly** web applications and exploring cutting-edge technologies.  
 💡 Skilled in **HTML, CSS, JavaScript, React, TypeScript, Node.js, .NET, C#, Java, SQL**.  
